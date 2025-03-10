@@ -1,1 +1,2 @@
-# GCP-tf-Jenkins
+# Automated CI/CD Pipeline with Jenkins and Terraform for Google Cloud
+This repository contains the code and configuration files for setting up an automated Continuous Integration and Continuous Deployment (CI/CD) pipeline using Jenkins and Terraform for Google Cloud Platform (GCP). The pipeline is triggered by changes to a GitHub repository.
